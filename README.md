@@ -1,46 +1,48 @@
 # [Bazel](https://bazel.build)
 
-*{Fast, Correct} - Choose two*
+Test
+
+_{Fast, Correct} - Choose two_
 
 Build and test software of any size, quickly and reliably.
 
-* **Speed up your builds and tests**:
+- **Speed up your builds and tests**:
   Bazel rebuilds only what is necessary.
   With advanced local and distributed caching, optimized dependency analysis and
   parallel execution, you get fast and incremental builds.
 
-* **One tool, multiple languages**: Build and test Java, C++, Android, iOS, Go,
+- **One tool, multiple languages**: Build and test Java, C++, Android, iOS, Go,
   and a wide variety of other language platforms. Bazel runs on Windows, macOS,
   and Linux.
 
-* **Scalable**: Bazel helps you scale your organization, codebase, and
+- **Scalable**: Bazel helps you scale your organization, codebase, and
   continuous integration solution. It handles codebases of any size, in multiple
   repositories or a huge monorepo.
 
-* **Extensible to your needs**: Easily add support for new languages and
+- **Extensible to your needs**: Easily add support for new languages and
   platforms with Bazel's familiar extension language. Share and re-use language
   rules written by the growing Bazel community.
 
 ## Getting Started
 
-  * [Install Bazel](https://bazel.build/install)
-  * [Get started with Bazel](https://bazel.build/start)
-  * Follow our tutorials:
+- [Install Bazel](https://bazel.build/install)
+- [Get started with Bazel](https://bazel.build/start)
+- Follow our tutorials:
 
-    - [Build C++](https://bazel.build/tutorials/cpp)
-    - [Build Java](https://bazel.build/tutorials/java)
-    - [Android](https://bazel.build/tutorials/android-app)
-    - [iOS](https://bazel.build/tutorials/ios-app)
+  - [Build C++](https://bazel.build/tutorials/cpp)
+  - [Build Java](https://bazel.build/tutorials/java)
+  - [Android](https://bazel.build/tutorials/android-app)
+  - [iOS](https://bazel.build/tutorials/ios-app)
 
 ## Documentation
 
-  * [Bazel command line](https://bazel.build/docs/user-manual)
-  * [Rule reference](https://bazel.build/reference/be/overview)
-  * [Use the query command](https://bazel.build/reference/query)
-  * [Extend Bazel](https://bazel.build/rules/concepts)
-  * [Write tests](https://bazel.build/reference/test-encyclopedia)
-  * [Roadmap](https://bazel.build/community/roadmaps)
-  * [Who is using Bazel?](https://bazel.build/community/users)
+- [Bazel command line](https://bazel.build/docs/user-manual)
+- [Rule reference](https://bazel.build/reference/be/overview)
+- [Use the query command](https://bazel.build/reference/query)
+- [Extend Bazel](https://bazel.build/rules/concepts)
+- [Write tests](https://bazel.build/reference/test-encyclopedia)
+- [Roadmap](https://bazel.build/community/roadmaps)
+- [Who is using Bazel?](https://bazel.build/community/users)
 
 ## Reporting a Vulnerability
 
