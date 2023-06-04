@@ -2,7 +2,7 @@ name: DR-Tools Analyze Pull Request
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 permissions:
   pull-requests: write

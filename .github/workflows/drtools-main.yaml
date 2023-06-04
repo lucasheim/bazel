@@ -2,7 +2,7 @@ name: DR-Tools Analyze
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   dr-tools-analyze:
